@@ -14,6 +14,8 @@
 
 * sass
 
+* scss
+
 ## Feito por:
 
 ### Evanildo da paz reis junior
